@@ -1,0 +1,11 @@
+version: 1.0
+name: NationMC
+main: com.nationmc.game.Main
+author: Wiz_Techno
+description: Game plugin for NationMC
+depend:
+  - TitleAPI
+commands:
+
+
+permissions:
