@@ -6,6 +6,8 @@ description: Game plugin for NationMC
 depend:
   - TitleAPI
 commands:
-
-
-permissions:
+  game:
+    aliases:
+      - g
+    permission: group.admin
+    permission-message: Admin+ Command
